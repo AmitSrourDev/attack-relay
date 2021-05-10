@@ -8,7 +8,7 @@
 * To co-operate attacks on machines with teams
 
 ### Inspiration
-    I hate using the normal `python3 -m http.server` and I'm sure safer alternatives to transfer files and information both from and to the machine could be made easier.
+I hate using the normal `python3 -m http.server` and I'm sure safer alternatives to transfer files and information both from and to the machine could be made easier.
     
 
 ### Main Sections
